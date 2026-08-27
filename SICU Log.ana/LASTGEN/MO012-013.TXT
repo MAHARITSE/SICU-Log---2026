@@ -1,0 +1,13 @@
+//MO012-013.TXT ANA00012 TO ANA00013
+Affectation		TAR	74	nouvelle taille enregistrement : 74
+Affectation	IDETUDIANT	RUB+		IDETUDIANT est une nouvelle clé
+Affectation	IDMENTION	RUB+		IDMENTION est une nouvelle clé
+Affectation	IDNIVEAU	RUB+		IDNIVEAU est une nouvelle clé
+INSCRIPTION		FIC-	INSCRIPTION	Fichier supprimé INSCRIPTION
+Contrainte_ETUDIANT_Affectation		NWL	ETUDIANT (IDETUDIANT) et Affectation (IDETUDIANT)	Nouvelle liaison entre les fichiers ETUDIANT (IDETUDIANT) et Affectation (IDETUDIANT)
+Contrainte_NIVEAU_Affectation		NWL	NIVEAU (IDNIVEAU) et Affectation (IDNIVEAU)	Nouvelle liaison entre les fichiers NIVEAU (IDNIVEAU) et Affectation (IDNIVEAU)
+Contrainte_MENTION_Affectation		NWL	MENTION (IDMENTION) et Affectation (IDMENTION)	Nouvelle liaison entre les fichiers MENTION (IDMENTION) et Affectation (IDMENTION)
+Contrainte_MENTION_INSCRIPTION		DEL	MENTION (IDMENTION) et INSCRIPTION (IDMENTION)	Liaison supprimée entre les fichiers MENTION (IDMENTION) et INSCRIPTION (IDMENTION)
+Contrainte_ETUDIANT_INSCRIPTION		DEL	ETUDIANT (IDETUDIANT) et INSCRIPTION (IDETUDIANT)	Liaison supprimée entre les fichiers ETUDIANT (IDETUDIANT) et INSCRIPTION (IDETUDIANT)
+Contrainte_NIVEAU_INSCRIPTION		DEL	NIVEAU (IDNIVEAU) et INSCRIPTION (IDNIVEAU)	Liaison supprimée entre les fichiers NIVEAU (IDNIVEAU) et INSCRIPTION (IDNIVEAU)
+Contrainte_INSCRIPTION_Affectation		DEL	INSCRIPTION (IDINSCRIPTION) et Affectation (IDINSCRIPTION)	Liaison supprimée entre les fichiers INSCRIPTION (IDINSCRIPTION) et Affectation (IDINSCRIPTION)

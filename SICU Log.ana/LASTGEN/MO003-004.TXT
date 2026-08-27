@@ -1,0 +1,4 @@
+//MO003-004.TXT ANA00003 TO ANA00004
+ETUDIANT		TAR	376	nouvelle taille enregistrement : 376
+ETUDIANT	Nom_Etudiant	NNR	Nom_et_Prénom	ATTENTION : la rubrique Nom_et_Prénom a pour nouveau nom Nom_Etudiant
+ETUDIANT	Prénom_Etudiant	RUB+		Prénom_Etudiant est une nouvelle rubrique

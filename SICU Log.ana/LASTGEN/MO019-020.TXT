@@ -1,0 +1,3 @@
+//MO019-020.TXT ANA00019 TO ANA00020
+Expulsion		FIC-	Expulsion	Fichier supprimé Expulsion
+Contrainte_ETUDIANT_Expulsion		DEL	ETUDIANT (IDETUDIANT) et Expulsion (IDETUDIANT)	Liaison supprimée entre les fichiers ETUDIANT (IDETUDIANT) et Expulsion (IDETUDIANT)

@@ -1,0 +1,2 @@
+//MO023-024.TXT ANA00023 TO ANA00024
+ETUDIANT	Nom_EtudiantPrénom_Etudiant	RUB+		Nom_EtudiantPrénom_Etudiant est une nouvelle clé

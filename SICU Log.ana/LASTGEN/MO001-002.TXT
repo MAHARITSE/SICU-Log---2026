@@ -1,0 +1,6 @@
+//MO001-002.TXT ANA00001 TO ANA00002
+Affectation		TAR	49	nouvelle taille enregistrement : 49
+Affectation	IDBloc	RUB+		IDBloc est une nouvelle clé
+Contrainte_Bloc_Porte		NWL	Bloc (IDBloc) et Porte (IDBloc)	Nouvelle liaison entre les fichiers Bloc (IDBloc) et Porte (IDBloc)
+Contrainte_Bloc_Affectation		NWL	Bloc (IDBloc) et Affectation (IDBloc)	Nouvelle liaison entre les fichiers Bloc (IDBloc) et Affectation (IDBloc)
+Contrainte_Bloc_Porte		DEL	Bloc (IDBloc) et Porte (IDBloc)	Liaison supprimée entre les fichiers Bloc (IDBloc) et Porte (IDBloc)

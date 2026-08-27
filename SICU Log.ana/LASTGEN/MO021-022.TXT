@@ -1,0 +1,3 @@
+//MO021-022.TXT ANA00021 TO ANA00022
+Affectation		TAR	65	nouvelle taille enregistrement : 65
+Affectation	IDINSCRIPTION	RUB-		la rubrique IDINSCRIPTION est supprimée

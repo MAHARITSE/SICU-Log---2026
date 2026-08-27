@@ -1,0 +1,25 @@
+//MO000-001.TXT ANA00000 TO ANA00001
+Quartier		NFI		nouveau fichier
+Bloc		NFI		nouveau fichier
+Porte		NFI		nouveau fichier
+ANNEE_UNIVERSITAIRE		NFI		nouveau fichier
+ETUDIANT		NFI		nouveau fichier
+NIVEAU		NFI		nouveau fichier
+MENTION		NFI		nouveau fichier
+FACULTE		NFI		nouveau fichier
+DOMAINE		NFI		nouveau fichier
+Paiement_Annuel		NFI		nouveau fichier
+Affectation		NFI		nouveau fichier
+INSCRIPTION		NFI		nouveau fichier
+Contrainte_Quartier_Bloc		NWL	Quartier (IDQuartier) et Bloc (IDQuartier)	Nouvelle liaison entre les fichiers Quartier (IDQuartier) et Bloc (IDQuartier)
+Contrainte_Bloc_Porte		NWL	Bloc (IDBloc) et Porte (IDBloc)	Nouvelle liaison entre les fichiers Bloc (IDBloc) et Porte (IDBloc)
+Contrainte_FACULTE_DOMAINE		NWL	FACULTE (IDFACULTE) et DOMAINE (IDFACULTE)	Nouvelle liaison entre les fichiers FACULTE (IDFACULTE) et DOMAINE (IDFACULTE)
+Contrainte_ANNEE_UNIVERSITAIRE_Affectation		NWL	ANNEE_UNIVERSITAIRE (IDANNEE_UNIVERSITAIRE) et Affectation (IDANNEE_UNIVERSITAIRE)	Nouvelle liaison entre les fichiers ANNEE_UNIVERSITAIRE (IDANNEE_UNIVERSITAIRE) et Affectation (IDANNEE_UNIVERSITAIRE)
+Contrainte_Porte_Affectation		NWL	Porte (IDPorte) et Affectation (IDPorte)	Nouvelle liaison entre les fichiers Porte (IDPorte) et Affectation (IDPorte)
+Contrainte_DOMAINE_MENTION		NWL	DOMAINE (IDDOMAINE) et MENTION (IDDOMAINE)	Nouvelle liaison entre les fichiers DOMAINE (IDDOMAINE) et MENTION (IDDOMAINE)
+Contrainte_Affectation_Paiement_Annuel		NWL	Affectation (IDAffectation) et Paiement_Annuel (IDAffectation)	Nouvelle liaison entre les fichiers Affectation (IDAffectation) et Paiement_Annuel (IDAffectation)
+Contrainte_MENTION_INSCRIPTION		NWL	MENTION (IDMENTION) et INSCRIPTION (IDMENTION)	Nouvelle liaison entre les fichiers MENTION (IDMENTION) et INSCRIPTION (IDMENTION)
+Contrainte_ETUDIANT_INSCRIPTION		NWL	ETUDIANT (IDETUDIANT) et INSCRIPTION (IDETUDIANT)	Nouvelle liaison entre les fichiers ETUDIANT (IDETUDIANT) et INSCRIPTION (IDETUDIANT)
+Contrainte_NIVEAU_INSCRIPTION		NWL	NIVEAU (IDNIVEAU) et INSCRIPTION (IDNIVEAU)	Nouvelle liaison entre les fichiers NIVEAU (IDNIVEAU) et INSCRIPTION (IDNIVEAU)
+Contrainte_INSCRIPTION_Affectation		NWL	INSCRIPTION (IDINSCRIPTION) et Affectation (IDINSCRIPTION)	Nouvelle liaison entre les fichiers INSCRIPTION (IDINSCRIPTION) et Affectation (IDINSCRIPTION)
+Contrainte_ANNEE_UNIVERSITAIRE_INSCRIPTION		NWL	ANNEE_UNIVERSITAIRE (IDANNEE_UNIVERSITAIRE) et INSCRIPTION (IDANNEE_UNIVERSITAIRE)	Nouvelle liaison entre les fichiers ANNEE_UNIVERSITAIRE (IDANNEE_UNIVERSITAIRE) et INSCRIPTION (IDANNEE_UNIVERSITAIRE)

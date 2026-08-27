@@ -1,0 +1,4 @@
+//MO016-017.TXT ANA00016 TO ANA00017
+Expulsion		TAR	38	nouvelle taille enregistrement : 38
+Expulsion	AnnéeExpulsion	RUB+		AnnéeExpulsion est une nouvelle rubrique
+Expulsion	ANNEE	RUB-		la rubrique ANNEE est supprimée

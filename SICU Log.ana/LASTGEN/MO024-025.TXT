@@ -1,0 +1,3 @@
+//MO024-025.TXT ANA00024 TO ANA00025
+EXPULSION		TAR	38	nouvelle taille enregistrement : 38
+EXPULSION	Date	CNW	Date (aaaammjj)$Chaîne	la rubrique Date a pour nouveau type Date (aaaammjj)

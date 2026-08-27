@@ -1,0 +1,5 @@
+//MO010-011.TXT ANA00010 TO ANA00011
+ANNEE_UNIVERSITAIRE		TAR	19	nouvelle taille enregistrement : 19
+ANNEE_UNIVERSITAIRE	ANNEE	CNW	Entier non signé sur 2 octets$Chaîne	la rubrique ANNEE a pour nouveau type Entier non signé sur 2 octets
+INSCRIPTION		TAR	41	nouvelle taille enregistrement : 41
+INSCRIPTION	ANNEE_UNIVERSITAIRE	RUB-		la rubrique ANNEE_UNIVERSITAIRE est supprimée
